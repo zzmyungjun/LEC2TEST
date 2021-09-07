@@ -1,1 +1,2 @@
+#각오 : 
 print('thanks')
